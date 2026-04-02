@@ -1,17 +1,22 @@
 Kāds varētu būt projekta nosaukums?
-
+JoinIn
 
 Ko projekts dara vienā teikumā?
-
+JoinIn ļauj pusaudžiem operatīvi atrast vai noorganizēt nelielas klātienes aktivitātes (basketbolu, skeitošanu, galda spēles u.c.) savā apkaimē.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Tas risina digitālo vientulību un pasivitāti. Projekts palīdz jauniešiem izkāpt no ekrāniem un pāriet pie reālas komunikācijas dzīvē, atrodot domubiedrus.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Pusaudži un jaunieši, kuriem ir brīvs laiks, specifiski hobiji vai vēlme iepazīt jaunus cilvēkus.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Caur Telegram botu. Lietotājs var pārlūkotu esošos "spotus" vai izveidotu savu pieteikumu, saņemot paziņojumus par jaunām aktivitātēm savā rajonā.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+1. Poga, kuru nospiežot, bots parāda visus pašlaik pieejamos sludinājumus. Lietotājs var redzēt, kādas aktivitātes plānotas šodien.
+
+2. Lietotājs aizpilda īsu formu, atbildot uz bota jautājumiem (Kas? Kur? Kad? Cik cilvēku?). Bots šo informāciju saglabā kā vienu ziņojumu.
+
+3. Pie katra sludinājuma ir poga, kuru nospiežot, pasākuma izveidotājs saņem tūlītēju paziņojumu: "Lietotājs @vārds vēlas pievienoties tavai aktivitātei!".
