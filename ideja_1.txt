@@ -1,17 +1,22 @@
 Kāds varētu būt projekta nosaukums?
-
+QuickQuest
 
 Ko projekts dara vienā teikumā?
-
+Katru dienu bots iedod vienu mazu "misiju", "kvestu" (piemēram: "Izdzer glāzi ūdens tūlīt!" vai "Nobrauc ar velosipēdu 5 km") un lietotājam ir jāatbild ar apstiprinājumu.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Projekts risina "izdegšanu no nekā nedarīšanas" un zemu motivāciju. Tā mērķis ir pašsajūtas uzlabošana, palīdzot tikt galā ar sajūtu, ka diena ir pagājusi, bet nekas jēdzīgs nav paveikts.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Pusaudži un jaunieši, kuri jūtas nedaudz apjukuši savā ikdienas rutīnā.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Telegram bots atsūta ziņu, lietotājs izpilda "kvestu" un nospiež pogu "Done!".
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+1. Bots piedāvā vienu pavisam vienkāršu uzdevumu (piemēram: "Sakārto savu galdu").
+
+2. Ja lietotājs pilda mazos uzdevumus vairākas dienas pēc kārtas, viņš krāj punktus vai nozīmītes, ko var parādīt draugiem.
+
+3. Trīs džadu limeņa uzdevumi(easy/normal/hard), katrs dod dažādu punktu skaitu, jo grūtak uzdevums, jo vairāk punkti.
