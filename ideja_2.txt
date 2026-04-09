@@ -20,3 +20,19 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 2. Lietotājs aizpilda īsu formu, atbildot uz bota jautājumiem (Kas? Kur? Kad? Cik cilvēku?). Bots šo informāciju saglabā kā vienu ziņojumu.
 
 3. Pie katra sludinājuma ir poga, kuru nospiežot, pasākuma izveidotājs saņem tūlītēju paziņojumu: "Lietotājs @vārds vēlas pievienoties tavai aktivitātei!".
+
+
+
+Funkcionālas prasības:
+1. Lietotājs var redzēt visu aktuālo dienas aktivitāšu sarakstu.
+2. Lietotājs caur dialogu aizpilda formu (Kas? Kur? Kad? Cik?).
+3. Lietotājs var nosūtīt paziņojumu organizatoram.
+4. Iespēja atlasīt aktivitātes pēc kategorijas (sports, galda spēles, tusiņš).
+5. Iespēja atsaukt savu pieteikumu, informējot par to organizatoru.
+
+
+
+Nefunkcionālas prasības:
+1. Paziņojumu piegāde organizatoram notiek mazāk nekā 2 sekunžu laikā.
+2. Interfeiss, kurā galvenās darbības veicamas pāris sekundēs.
+3. Automātiska veco ierakstu dzēšana pēc pasākuma beigām.
