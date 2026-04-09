@@ -13,10 +13,31 @@ Pusaudži un jaunieši, kuri jūtas nedaudz apjukuši savā ikdienas rutīnā.
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 Telegram bots atsūta ziņu, lietotājs izpilda "kvestu" un nospiež pogu "Done!".
 
-Kādas ir 3–5 galvenās funkcijas (must-have)?
+Kādas ir 3–5 galvenās funkcijas?
 
 1. Bots piedāvā vienu pavisam vienkāršu uzdevumu (piemēram: "Sakārto savu galdu").
 
 2. Ja lietotājs pilda mazos uzdevumus vairākas dienas pēc kārtas, viņš krāj punktus vai nozīmītes, ko var parādīt draugiem.
 
 3. Trīs džadu limeņa uzdevumi(easy/normal/hard), katrs dod dažādu punktu skaitu, jo grūtak uzdevums, jo vairāk punkti.
+
+
+
+
+Funkcionālas prasības;
+1. Lietotājs var paņemt un izpildīt vienkaršu uzdevumu.
+2. Lietotājs var izvelēties 3 dažādus limeņus(easy/normal/hard).
+3. Lietotājs var taupīt punktus.
+4. Lietotājam ir pieejama komanda savas statistikas un nopelnīto nozīmīšu apskatei.
+5. Lietotājs var sacensīties ar draugiem.
+
+Nefunkcionālas prasības;
+1. Bots atbild uz lietotāja darbībām mazāk nekā 2 sekunžu laikā.
+2. Interfeiss ir maksimāli saprotams, lai uzdevumu varētu apstiprināt ar 1 klikšķi.
+3. 3 dažadu limeņa uzdēvumi.
+
+
+
+
+
+
