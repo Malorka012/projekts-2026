@@ -49,8 +49,25 @@ Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotāj
 
 
 Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
-Sololeveller app
-Challenge me APP
-
 Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
 
+Sololeveller app
+
+plusi:
+Personīgas misijas - Vari izveidot savu misiju sarakstu pēc interesēm
+Ērti izmantojama jebkurā laikā
+Skaidra progresa skalas un līmeņi motivē lietotājus
+
+mīnusi:
+Daudzas funkcijas par maksu(Premium)
+Parāk daudz funkcijas, var sajaukties
+nav iespējas dalīties ar rezultātiem
+
+Challenge me APP
+
+plusi:
+izaicinājumi ar draugiem
+var redzēt citu progressu (Liderbordu)
+atgādina par izaicinājumiem
+
+mīnusi:
