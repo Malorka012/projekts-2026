@@ -71,3 +71,4 @@ var redzēt citu progressu (Liderbordu)
 atgādina par izaicinājumiem
 
 mīnusi:
+dalās ar jusu datiem
