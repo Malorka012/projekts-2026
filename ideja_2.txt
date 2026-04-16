@@ -36,3 +36,14 @@ Nefunkcionālas prasības:
 1. Paziņojumu piegāde organizatoram notiek mazāk nekā 2 sekunžu laikā.
 2. Interfeiss, kurā galvenās darbības veicamas pāris sekundēs.
 3. Automātiska veco ierakstu dzēšana pēc pasākuma beigām.
+
+
+Cik ļoti mani aizrauj šī tēma? 3
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)  2
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?   4
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?  4
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?   3
+
+
+16/25
+
