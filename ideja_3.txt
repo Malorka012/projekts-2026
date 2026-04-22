@@ -19,3 +19,18 @@ Kādas ir 3–5 galvenās funkcijas (must-have)?
 2. Programmai jāaprēķina un jāizvada precīzs atlikušais laiks (dienas/stundas) no pašreizējā brīža līdz notikumam.
 3. Sistēmai jāpārbauda, vai ievadītais datums ir korektā formātā un nav pagātnē.
 4. Sistēmai jānodrošina iespēja lietotājam izvēlēties un izdzēst konkrētu pasākumu no datubāzes.
+
+
+Funkcionālas prasības:
+
+Lietotājs pievieno pasākumu, norādot nosaukumu un datumu.
+Bots aprēķina atlikušo laiku un izvada to kā "dienas un stundas".
+Visi ieraksti tiek automātiski saglabāti.
+Lietotājs var apskatīt sakārtotu sarakstu un dzēst ierakstus ar pogām.
+Bots nosūta apstiprinājumu pēc katras veiksmīgas darbības.
+
+Nefunkcionālas prasības:
+
+Sistēma nepieņem datumus, kas ir pagātnē vai nepareizā formātā.
+Bota atbilde uz jebkuru komandu nepārsniedz 1 sekundi.
+Kļūmīga lietotāja ievade (piemēram, teksts skaitļa vietā) neizraisa bota apstāšanos.
