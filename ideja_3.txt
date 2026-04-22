@@ -11,7 +11,7 @@ Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēj
 Skolēni, pašpārvaldes dalībnieki un klašu audzinātāji.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-GUI
+Telegram bots
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
@@ -34,3 +34,34 @@ Nefunkcionālas prasības:
 Sistēma nepieņem datumus, kas ir pagātnē vai nepareizā formātā.
 Bota atbilde uz jebkuru komandu nepārsniedz 1 sekundi.
 Kļūmīga lietotāja ievade (piemēram, teksts skaitļa vietā) neizraisa bota apstāšanos.
+
+
+Cik ļoti mani aizrauj šī tēma?   4
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)  3
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?  4
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?   5
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?   4
+
+20/25
+
+
+Google Calendar
+
+Plusi:
+Sinhronizācija ar visām ierīcēm.
+Iespēja iestatīt precīzus atgādinājuma signālus.
+
+Mīnusi:
+Nav tieša "countdown" skata, jārēķina pašam.
+Pārāk daudz lieku funkciju ikdienas lietošanai skolēnam.
+
+Countdown Star (Mobilā lietotne)
+
+Plusi:
+Vizuāli skaists dizains ar fona attēliem.
+Rāda atlikušo laiku līdz pat sekundēm.
+
+Mīnusi:
+Satur reklāmas bezmaksas versijā.
+Aizņem vietu telefonā (atšķirībā no Telegram, kas jau ir instalēts).
+Nav iespējams ērti kopīgot sarakstu ar grupas biedriem.
