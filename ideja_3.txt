@@ -11,7 +11,11 @@ Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēj
 Skolēni, pašpārvaldes dalībnieki un klašu audzinātāji.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+GUI
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
 
+1. Sistēmai jānodrošina iespēja lietotājam ievadīt pasākuma nosaukumu un datumu, saglabājot tos.
+2. Programmai jāaprēķina un jāizvada precīzs atlikušais laiks (dienas/stundas) no pašreizējā brīža līdz notikumam.
+3. Sistēmai jāpārbauda, vai ievadītais datums ir korektā formātā un nav pagātnē.
+4. Sistēmai jānodrošina iespēja lietotājam izvēlēties un izdzēst konkrētu pasākumu no datubāzes.
