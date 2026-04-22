@@ -1,14 +1,14 @@
 Kāds varētu būt projekta nosaukums?
-
+Event Countdown
 
 Ko projekts dara vienā teikumā?
-
+Programma ļauj skolēniem reģistrēt skolas pasākumus un reāllaikā redzēt, cik dienas, stundas un minūtes atlikušas līdz katram no tiem.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Skolēni bieži aizmirst par svarīgiem datumiem (ballēm, projektu nedēļām, ekskursijām), jo tie ir izmētāti dažādos informācijas kanālos. Šis ir produktivitātes un laika plānošanas rīks.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Skolēni, pašpārvaldes dalībnieki un klašu audzinātāji.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
 
